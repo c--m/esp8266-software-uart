@@ -1,0 +1,17 @@
+author: fdgfdgggggggggggggg
+description: aaaaaaaa
+type: lib
+version: 1.0
+
+platforms: [ esp8266 ]
+
+sources:
+  - src
+includes:
+  - include
+
+tags:
+  - softuart
+
+manifest_version: 2017-05-18
+
